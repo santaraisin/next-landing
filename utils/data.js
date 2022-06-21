@@ -1,0 +1,58 @@
+const skills = [
+	{
+		id: 1,
+		title: 'HTML',
+		category: 'frontend',
+		img: '/../public/assets/skills/html.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+	{
+		id: 2,
+		title: 'CSS',
+		category: 'frontend',
+		img: '/../public/assets/skills/css.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+	{
+		id: 3,
+		title: 'javascript',
+		category: 'frontend',
+		img: '/../public/assets/skills/javascript.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+	{
+		id: 4,
+		title: 'react',
+		category: 'frontend',
+		img: '/../public/assets/skills/react.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+	{
+		id: 5,
+		title: 'tailwind',
+		category: 'frontend',
+		img: '/../public/assets/skills/tailwind.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+	{
+		id: 6,
+		title: 'firebase',
+		category: 'frontend',
+		img: '/../public/assets/skills/firebase.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+	{
+		id: 7,
+		title: 'github',
+		category: 'frontend',
+		img: '/../public/assets/skills/github.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+	{
+		id: 8,
+		title: 'next',
+		category: 'frontend',
+		img: '/../public/assets/skills/next.png',
+		desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+	},
+];
