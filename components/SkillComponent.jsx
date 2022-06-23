@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 const SkillComponent = () => {
 	return (
@@ -16,3 +17,5 @@ const SkillComponent = () => {
 };
 
 export default SkillComponent;
+
+//I tried to change the loca
